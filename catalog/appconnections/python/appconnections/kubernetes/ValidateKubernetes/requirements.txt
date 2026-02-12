@@ -1,3 +1,4 @@
 PyYAML
 paramiko
 boto3==1.34.134
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
