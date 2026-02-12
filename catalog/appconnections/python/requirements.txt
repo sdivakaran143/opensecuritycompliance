@@ -6,3 +6,4 @@ xmltodict
 PyYAML
 boto3
 paramiko
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
